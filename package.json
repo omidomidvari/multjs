@@ -1,0 +1,27 @@
+{
+ "name": "multjs",
+ "version": "1.0.0",
+ "description": "multjs",
+ "main": "mult.js",
+ "scripts": {
+   "start": "node mult.js",
+   "test": "echo \"multjs-lib\" && exit 1"
+ },
+ "keywords": ["flow", "nodejs", "flowjs"],
+ "author": "homemovie",
+ "license": "GPL-3.0",
+ "dependencies": {
+   "express": "^4.17.1"
+ },
+ "devDependencies": {
+   "nodemon": "^2.0.15"
+ },
+ "repository": {
+   "type": "git",
+   "url": "https://github.com/omidomidvari/multjs.git"
+ },
+ "bugs": {
+   "url": "https://github.com/omidomidvari/multjs/issues"
+ },
+ "homepage": "https://github.com/omidomidvari/multjs#readme"
+}
