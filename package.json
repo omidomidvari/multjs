@@ -2,7 +2,7 @@
  "name": "multjs",
  "version": "1.0.0",
  "description": "multjs",
- "main": "mult.js",
+ "main": "flow.js",
  "scripts": {
    "start": "node mult.js",
    "test": "echo \"multjs-lib\" && exit 1"
