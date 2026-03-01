@@ -18,7 +18,7 @@ now run this:
 npm init
 ```
 it will probably ask you questions but for each one click enter.
-but if you have no knolege about npm run this
+but if you have no knowlage about npm run this
 ```
 npm install git+https://github.com/omidomidvari/multjs.git
 ```
