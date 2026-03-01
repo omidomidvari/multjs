@@ -2,7 +2,7 @@
 
  ***
 
- **_multjs_** is a js utility that helps the user make `javascript` automations
+ **_multjs_** is a js utility built on top of **_flowjs_** that helps the user make `javascript` automations
  well... like a github `workflow` in a `.yml` file. it can see data coming in and out, make its own website and more!
 
   ***
