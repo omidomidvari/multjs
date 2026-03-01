@@ -1,0 +1,12 @@
+            - name: gh-npm
+  # You may pin to the exact commit or the version.
+  # uses: cvyl/gh-npm@cc526c83f42ad592ab0f9b93ecd491286ca08703
+  uses: cvyl/gh-npm@0.0.6,1
+  with:
+    # Node.js version
+    node_version: 
+    # NPM scope
+    npm_scope: 
+    # GitHub scope
+    github_scope: 
+          
