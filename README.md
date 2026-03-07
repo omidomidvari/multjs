@@ -13,14 +13,8 @@ cd /path/to/multjs/
 ```
 > change the `path/to/multjs` to the path to multjs
 ***
-now run this:
+now run it using nodejs
 ```
-npm init
+node flow.js
 ```
-it will probably ask you questions but for each one click enter.
-but if you have no knowlage about npm run this
-```
-npm install git+https://github.com/omidomidvari/multjs.git
-```
-### thats all!
-```
+###### thats all!
